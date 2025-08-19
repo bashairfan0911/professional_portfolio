@@ -8,6 +8,7 @@ export default defineConfig(({ mode }) => ({
   // Base URL for GitHub Pages (must match your repo name)
   base: "/Modern_portfolio/",
 
+
   // Dev server configuration
   server: {
     host: "::",
